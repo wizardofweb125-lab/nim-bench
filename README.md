@@ -1,4 +1,13 @@
-# nim-bench
+<p align="center">
+  <img src="docs/banner.svg" alt="NIM Bench" width="700"/>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License"/></a>
+  <img src="https://img.shields.io/badge/python-3-blue?style=flat-square&logo=python&logoColor=white" alt="Python 3"/>
+  <img src="https://img.shields.io/badge/NVIDIA-NIM_free_tier-76b900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM"/>
+  <img src="https://img.shields.io/badge/deps-zero-brightgreen?style=flat-square" alt="Zero dependencies"/>
+</p>
 
 Continuous benchmark for LLMs on the NVIDIA NIM free tier. Tracks availability, latency, and tool-calling quality hour-by-hour to find the best model for each time slot.
 
